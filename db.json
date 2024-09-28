@@ -1,9 +1,46 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "Sugestão de presentes": {
+    "Cozinha": [
+      {"id": 1, "item": "Jogo de talheres", "disabled": false},
+      {"id": 2, "item": "Jogo de prato", "disabled": false},
+      {"id": 3, "item": "Jogo de copo", "disabled": false},
+      {"id": 4, "item": "Jogo de canecas", "disabled": false},
+      {"id": 5, "item": "Kit de facas", "disabled": false},
+      {"id": 6, "item": "Kit tigelas", "disabled": false},
+      {"id": 7, "item": "Tábua de cortar carne", "disabled": false},
+      {"id": 8, "item": "Jogo de panelas", "disabled": false},
+      {"id": 9, "item": "Jogo de frigideiras", "disabled": false},
+      {"id": 10, "item": "Garrafa de café", "disabled": false},
+      {"id": 11, "item": "Escorredor de macarrão", "disabled": false},
+      {"id": 12, "item": "Escorredor de arroz", "disabled": false},
+      {"id": 13, "item": "Porta tempero", "disabled": false}
+    ],
+    "Cama, Mesa e Banho": [
+      {"id": 14, "item": "Jogo de cama", "disabled": false},
+      {"id": 15, "item": "Jogo de lençóis", "disabled": false},
+      {"id": 16, "item": "Jogo de toalhas", "disabled": false}
+    ],
+    "Área de serviço": [
+      {"id": 17, "item": "Mop", "disabled": false},
+      {"id": 18, "item": "Pano de chão / flanela", "disabled": false},
+      {"id": 19, "item": "Varal", "disabled": false},
+      {"id": 20, "item": "Tapete", "disabled": false}
+    ],
+    "Eletrodomésticos": [
+      {"id": 21, "item": "Air fryer", "disabled": false},
+      {"id": 22, "item": "Liquidificador", "disabled": false},
+      {"id": 23, "item": "Sanduicheira", "disabled": false},
+      {"id": 24, "item": "Mini processador", "disabled": false},
+      {"id": 25, "item": "Cafeteira", "disabled": false},
+      {"id": 26, "item": "Aspirador", "disabled": false},
+      {"id": 27, "item": "Batedeira", "disabled": false},
+      {"id": 28, "item": "Ferro de passar", "disabled": false}
+    ],
+    "Banheiro": [
+      {"id": 29, "item": "Cesto de roupas", "disabled": false},
+      {"id": 30, "item": "Kit de banheiro", "disabled": false},
+      {"id": 31, "item": "Tapete", "disabled": false},
+      {"id": 32, "item": "Lixeira", "disabled": false}
+    ]
+  }
 }
