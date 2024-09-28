@@ -1,5 +1,5 @@
 {
-  "Sugestão-de-presentes": {
+  "Sugestao": {
     "Cozinha": [
       {"id": 1, "item": "Jogo de talheres", "disabled": false},
       {"id": 2, "item": "Jogo de prato", "disabled": false},
