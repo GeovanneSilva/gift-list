@@ -15,18 +15,18 @@
       {"id": 12, "item": "Escorredor de arroz", "disabled": false},
       {"id": 13, "item": "Porta tempero", "disabled": false}
     ],
-    "Cama-Mesa-e-Banho": [
+    "Cama, Mesa e Banho": [
       {"id": 14, "item": "Jogo de cama", "disabled": false},
       {"id": 15, "item": "Jogo de lençóis", "disabled": false},
       {"id": 16, "item": "Jogo de toalhas", "disabled": false}
     ],
-    "Area-de-serviço": [
+    "Área de serviço": [
       {"id": 17, "item": "Mop", "disabled": false},
       {"id": 18, "item": "Pano de chão / flanela", "disabled": false},
       {"id": 19, "item": "Varal", "disabled": false},
       {"id": 20, "item": "Tapete", "disabled": false}
     ],
-    "Eletrodomesticos": [
+    "Eletrodomésticos": [
       {"id": 21, "item": "Air fryer", "disabled": false},
       {"id": 22, "item": "Liquidificador", "disabled": false},
       {"id": 23, "item": "Sanduicheira", "disabled": false},
